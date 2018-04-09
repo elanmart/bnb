@@ -1,0 +1,10 @@
+# dispatch
+dill
+
+# tracker
+tinydb
+gitpython
+
+# misc
+wrapt
+attrs 
