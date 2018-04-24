@@ -1,24 +1,25 @@
 # What's in this repo?
 
-See my blog post on [staying sane while doing ML](elanmart.github.io)
+See my blog post on [staying sane while doing ML](https://elanmart.github.io/2018-02-02-staying-sane)
 for a brief description of how I handle my machine learning experiments.
 
 This repo contains code that I use for this exact purpose.
 
 It is not intended to be package that you can install and use reliably. 
-This is more of a personal project. I'll be happy if you find at least part
+This is a personal project, but I'll be happy if you find at least part
 of it usefull.
 
 # Docs / Examples
 
-There is currently no docs, but see the [blog post](elanmart.github.io) for philosophy, and [example notebook](google.com) for some usage example.
+There is currently no docs, but see the [blog post](https://elanmart.github.io/2018-02-02-staying-sane) 
+for philosophy, and [example notebook](https://github.com/elanmart/bnb/blob/master/examples/bnb-vis.ipynb) for some usage example.
 
 # Note
 
 * You'll probably be much better of by using [sacred](https://github.com/IDSIA/sacred).
 
 * This code needs a major refactor -- it was cut out from a larger project
-that was also handling job scheduling for my AWS workers (see [this repo](bob-full.com)). It therefore contains a lot of code that could be greatly 
+that was also handling job scheduling for my AWS workers (see [this repo](https://github.com/elanmart/bnb-full)). It therefore contains a lot of code that could be greatly 
 simplified
 
 # Summary
